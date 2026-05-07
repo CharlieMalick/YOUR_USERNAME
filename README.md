@@ -23,4 +23,4 @@ You can find more details one my [portfolio page](https://charliemalick.github.i
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/sidsrao/) | [Email: sidharthsrao4717@gmail.com](mailto:sidharthsrao4717@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sidsrao/) | [Email](mailto:sidharthsrao4717@gmail.com)
