@@ -1,6 +1,6 @@
 # Hi, I'm Sidharth Rao
 
-Aspiring data scientist & engineer @ MSU | SQL, Python, R, Git, reproducible workflows
+MSU Data Science Graduate | SQL, Python, R, Git, reproducible workflows
 
 ## About
 
